@@ -24,9 +24,8 @@ Me identifico como um programador que acredita que o objetivo da profissão não
 </p>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass2021&layout=compact"/> 
- </p>
  <img src="https://github-readme-stats.vercel.app/api?username=Lucass2021&show_icons=true&theme=radical" width="425px" />
-
+</p>
 
 ---
 
