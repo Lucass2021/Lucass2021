@@ -1,4 +1,4 @@
-## Hello Word, meu nome é Lucas Dias 👊
+## Hello World, meu nome é Lucas Dias 👊
 
 Sou do Rio Grande do Sul, atualmente cursando Marketing Digital pela Anhanguera (2021), atualmente estou estudando Desenvolvimento Web com foco em Front End pela  **[RocketSeat](https://rocketseat.com.br//)**.
 
