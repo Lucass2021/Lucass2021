@@ -11,7 +11,7 @@
 Welcome to my Github profile!
 I'm from Brazil, currently studying Web Development with focus on Front End through **[RocketSeat](https://rocketseat.com.br//)**.
 
-I'm belive that coding is more than just writting coding lines, coding is about fixing problems! Which is why I seek to develop and improve my Hard and Soft Skills to help people, I am open to challenges for my evolution as a Developer.
+I'm belive that coding is more than just writting coding lines, coding is about fixing problems! Which is why I seek to develop and improve my Hard and Soft Skills, and by consequence help people, I am open to challenges for my evolution as a Developer.
 
 ---
 
