@@ -35,8 +35,9 @@ I'm belive that coding is more than just writting coding lines, coding is about 
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass2021&layout=compact"/> 
+ </p>
  ---
-
+<p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Lucass2021&show_icons=true&theme=radical" width="425px" />
 </p>
 
