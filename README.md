@@ -35,14 +35,8 @@ I'm belive that coding is more than just writting coding lines, coding is about 
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass2021&layout=compact"/> 
+ ---
+
  <img src="https://github-readme-stats.vercel.app/api?username=Lucass2021&show_icons=true&theme=radical" width="425px" />
 </p>
 
----
-
-<h3 align="center">📱 Contato </h3>
-<p align="center">
-<a href="mailto:lucas.allx@hotmail.com"> <img src="https://img.shields.io/badge/-Email-D14836.svg?logo=gmail&style=plastic&logoColor=white" /> </a>
-<a href="https://www.linkedin.com/in/lucas-dias-da-silva-118954199/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-007acc.svg?logo=linkedin&style=plastic"></a>
-<a href="https://www.instagram.com/lucas_miauu/" target="blank"><img src="https://img.shields.io/badge/-Instagram-F73776.svg?logo=instagram&style=plastic&logoColor=white"></a>
-</p>
