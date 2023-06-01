@@ -39,7 +39,8 @@ My name is Lucas Dias, i'm 21 years old brazilian. I'm currently studying Front-
 
 
 ### 💬 Get in touch with me!
-[<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin"/>][linkedin]
+<a href="mailto:lucas.allx@hotmail.com"> <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/lucas-dias-da-silva-118954199/" target="blank"><img src ="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
 <br >
 <br >
