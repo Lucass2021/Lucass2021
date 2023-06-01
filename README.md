@@ -2,7 +2,7 @@
 
 ## Hello! Welcome to my profile. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-My name is Lucas Dias, i'm 20 years old currently living in Brazil. I'm studying Digital Marketing at Anhanguera and my goal is to become a Full Stack Developer soon! I am looking for improvement in my skills and myself as a developer.
+My name is Lucas Dias, i'm 21 years old brazilian. I'm currently studying Front-End development and my goal is to become a Full Stack Developer soon! I am focused on a daily basis to improve my skills as a developer.
 
 "I'm training for opportunities that don't even exist yet" - David Goggins.
 
