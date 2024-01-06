@@ -15,7 +15,9 @@
 <a href="mailto:lucas.allx@hotmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=mail.ru&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/lucas-dias-da-silva-118954199/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lucas-dias-da-silva-118954199/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 </div>
 <hr />
