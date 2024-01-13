@@ -84,3 +84,4 @@
 ![React-Native](https://img.shields.io/badge/-react_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Vue](https://img.shields.io/badge/-vue-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Quasar](https://img.shields.io/badge/-quasar-0D1117?style=for-the-badge&logo=quasar&labelColor=0D1117&textColor=0D1117)&nbsp;
+![node.js](https://img.shields.io/badge/-node-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
