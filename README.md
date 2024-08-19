@@ -2,7 +2,7 @@
 
 
 <div>
-    <img width=100% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello+my+name+is+Lucas+Dias;I'm+22+years+old;I'm+from+Brazil;I'm+currently+a+Front+End+Developer;Welcome+to+my+profile!" alt="Typing SVG">
+    <img width=100% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello+my+name+is+Lucas+Dias;I'm+22+years+old;I'm+from+Brazil;I'm+a+Front+End+and+Mobile+Developer;Welcome+to+my+profile!" alt="Typing SVG">
 </div>
 
 
