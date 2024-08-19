@@ -27,7 +27,8 @@
 <ul>
   <li>🤩️ Passionate about Programming, Music, Games and MMA</li>
   <li>💻 <b>College student</b> in <b>Analysis and Systems Development</b> at <a href="https://www.linkedin.com/school/anhanguera-educacional-sa/" target="_blank">Anhanguera</a>. I'm also a currently <b>student</b> from <a href="https://www.linkedin.com/company/b7web/" target="_blank">B7Web</a> and <a href="https://www.linkedin.com/school/origamid/" target="_blank">Origamid</a>.</li>
-  <li>🚀 I'm specializing in Front-end, but my long-term goal is to become Full-Stack Developer.</li>
+  <li>🚀 I'm specializing in Front-end and Mobile development, but my long-term goal is to become Full-Stack Developer.</li>
+  <li>🔥 I'm constantly trying to learn something new</li>
 </ul>
 <p>"I'm training for opportunities that don't even exist yet" - David Goggins.</p>
 <br/>
