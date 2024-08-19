@@ -34,7 +34,7 @@
 <br/>
 <hr/>
 
-### Main skills:
+###  Skills:
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
@@ -57,3 +57,12 @@
 ![React-Native](https://img.shields.io/badge/-react_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Spring-boot](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![GO](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+### I want to learn more about:
+![Next](https://img.shields.io/badge/-next-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Nuxt](https://img.shields.io/badge/-Nuxt-0D1117?style=for-the-badge&logo=nuxt.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Spring-boot](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Nest](https://img.shields.io/badge/-nest-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117&textColor=0D1117)&nbsp;
+![GO](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Kotlin](https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
