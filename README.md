@@ -51,38 +51,9 @@
 ![node.js](https://img.shields.io/badge/-node-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-
-### Tools:
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Postman](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117&textColor=0D1117)&nbsp;
-![trello](https://img.shields.io/badge/-trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117&textColor=0D1117)&nbsp;
-![notion](https://img.shields.io/badge/-notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117&textColor=0D1117)&nbsp;
-![eslint](https://img.shields.io/badge/-eslint-0D1117?style=for-the-badge&logo=eslint&labelColor=0D1117&textColor=0D1117)&nbsp;
-![prettier](https://img.shields.io/badge/-prettier-0D1117?style=for-the-badge&logo=prettier&labelColor=0D1117&textColor=0D1117)&nbsp;
-![swagger](https://img.shields.io/badge/-swagger-0D1117?style=for-the-badge&logo=swagger&labelColor=0D1117&textColor=0D1117)&nbsp;
-![figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&textColor=0D1117)&nbsp;
-![git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/-bitbucket-0D1117?style=for-the-badge&logo=bitbucket&labelColor=0D1117&textColor=0D1117)
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-
-
-### Others Knowledges:
-
-![vite](https://img.shields.io/badge/-vite-0D1117?style=for-the-badge&logo=vite&labelColor=0D1117&textColor=0D1117)&nbsp;
-![mysql](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![OracleDB](https://img.shields.io/badge/-oracle-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117&textColor=0D1117)&nbsp;
-![npm](https://img.shields.io/badge/-npm-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117&textColor=0D1117)&nbsp;
-![nodemon](https://img.shields.io/badge/-nodemon-0D1117?style=for-the-badge&logo=nodemon&labelColor=0D1117&textColor=0D1117)&nbsp;
-![express](https://img.shields.io/badge/-express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117&textColor=0D1117)&nbsp;
-![cypress](https://img.shields.io/badge/-cypress-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
 ### Studying:
 
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React-Native](https://img.shields.io/badge/-react_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Vue](https://img.shields.io/badge/-vue-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Quasar](https://img.shields.io/badge/-quasar-0D1117?style=for-the-badge&logo=quasar&labelColor=0D1117&textColor=0D1117)&nbsp;
-![node.js](https://img.shields.io/badge/-node-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Spring-boot](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117&textColor=0D1117)&nbsp;
+![GO](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&labelColor=0D1117&textColor=0D1117)&nbsp;
